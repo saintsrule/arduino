@@ -1,4 +1,9 @@
-/****************************************************************************
+/*
+
+THIS IS NOT THE ONE FOR 5050 LEDS
+
+
+****************************************************************************
  * This example was developed by the Hackerspace San Salvador to demonstrate
  * the simultaneous use of the NeoPixel library and the Bluetooth SoftDevice.
  * To compile this example you'll need to add support for the NRF52 based
